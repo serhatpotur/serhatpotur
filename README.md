@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi there 👋 I'm Serhat Potur
-
+# Hi there 👋 I'm Serhat Potur
+# Software Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhatpotur) 
